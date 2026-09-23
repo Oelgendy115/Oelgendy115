@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The past is never dead. It's not even past.”
+> “There is no greater agony than bearing an untold story inside you.”
 >
-> — *Requiem for a Nun*, William Faulkner
+> — *I Know Why the Caged Bird Sings*, Maya Angelou
 <!-- BOOK_QUOTE_END -->
 
 ---
