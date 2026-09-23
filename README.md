@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “I am no bird; and no net ensnares me.”
+> “The past is never dead. It's not even past.”
 >
-> — *Jane Eyre*, Charlotte Brontë
+> — *Requiem for a Nun*, William Faulkner
 <!-- BOOK_QUOTE_END -->
 
 ---
