@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Not everything that is faced can be changed, but nothing can be changed until it is faced.”
+> “And now that you don't have to be perfect, you can be good.”
 >
-> — *The Fire Next Time*, James Baldwin
+> — *East of Eden*, John Steinbeck
 <!-- BOOK_QUOTE_END -->
 
 ---
