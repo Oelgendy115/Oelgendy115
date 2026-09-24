@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “And now that you don't have to be perfect, you can be good.”
+> “The only way out of the labyrinth of suffering is to forgive.”
 >
-> — *East of Eden*, John Steinbeck
+> — *Looking for Alaska*, John Green
 <!-- BOOK_QUOTE_END -->
 
 ---
