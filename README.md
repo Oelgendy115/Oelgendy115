@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Who controls the past controls the future.”
+> “The only way out of the labyrinth of suffering is to forgive.”
 >
-> — *1984*, George Orwell
+> — *Looking for Alaska*, John Green
 <!-- BOOK_QUOTE_END -->
 
 ---
