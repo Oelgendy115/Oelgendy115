@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The only way out of the labyrinth of suffering is to forgive.”
+> “After all, tomorrow is another day.”
 >
-> — *Looking for Alaska*, John Green
+> — *Gone with the Wind*, Margaret Mitchell
 <!-- BOOK_QUOTE_END -->
 
 ---
