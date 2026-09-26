@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Words are our most inexhaustible source of magic.”
+> “You never really understand a person until you consider things from his point of view.”
 >
-> — *Harry Potter and the Deathly Hallows*, J.K. Rowling
+> — *To Kill a Mockingbird*, Harper Lee
 <!-- BOOK_QUOTE_END -->
 
 ---
