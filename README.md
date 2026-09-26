@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “After all, tomorrow is another day.”
+> “Words are our most inexhaustible source of magic.”
 >
-> — *Gone with the Wind*, Margaret Mitchell
+> — *Harry Potter and the Deathly Hallows*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
