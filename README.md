@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Beware; for I am fearless, and therefore powerful.”
+> “Memories warm you up from the inside. But they also tear you apart.”
 >
-> — *Frankenstein*, Mary Shelley
+> — *Kafka on the Shore*, Haruki Murakami
 <!-- BOOK_QUOTE_END -->
 
 ---
