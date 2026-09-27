@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “You never really understand a person until you consider things from his point of view.”
+> “It was a bright cold day in April, and the clocks were striking thirteen.”
 >
-> — *To Kill a Mockingbird*, Harper Lee
+> — *1984*, George Orwell
 <!-- BOOK_QUOTE_END -->
 
 ---
