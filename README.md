@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Memories warm you up from the inside. But they also tear you apart.”
+> “It's the possibility of having a dream come true that makes life interesting.”
 >
-> — *Kafka on the Shore*, Haruki Murakami
+> — *The Alchemist*, Paulo Coelho
 <!-- BOOK_QUOTE_END -->
 
 ---
