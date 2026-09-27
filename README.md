@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “All animals are equal, but some animals are more equal than others.”
+> “Beware; for I am fearless, and therefore powerful.”
 >
-> — *Animal Farm*, George Orwell
+> — *Frankenstein*, Mary Shelley
 <!-- BOOK_QUOTE_END -->
 
 ---
