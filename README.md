@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Whatever our souls are made of, his and mine are the same.”
+> “After all, tomorrow is another day.”
 >
-> — *Wuthering Heights*, Emily Brontë
+> — *Gone with the Wind*, Margaret Mitchell
 <!-- BOOK_QUOTE_END -->
 
 ---
