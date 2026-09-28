@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “After all, tomorrow is another day.”
+> “Beware; for I am fearless, and therefore powerful.”
 >
-> — *Gone with the Wind*, Margaret Mitchell
+> — *Frankenstein*, Mary Shelley
 <!-- BOOK_QUOTE_END -->
 
 ---
