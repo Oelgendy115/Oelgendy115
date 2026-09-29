@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “We accept the love we think we deserve.”
+> “You never really understand a person until you consider things from his point of view.”
 >
-> — *The Perks of Being a Wallflower*, Stephen Chbosky
+> — *To Kill a Mockingbird*, Harper Lee
 <!-- BOOK_QUOTE_END -->
 
 ---
