@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Not everything that is faced can be changed, but nothing can be changed until it is faced.”
+> “The answer to the great question of life, the universe and everything is forty-two.”
 >
-> — *The Fire Next Time*, James Baldwin
+> — *The Hitchhiker's Guide to the Galaxy*, Douglas Adams
 <!-- BOOK_QUOTE_END -->
 
 ---
