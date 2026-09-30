@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The answer to the great question of life, the universe and everything is forty-two.”
+> “Memories warm you up from the inside. But they also tear you apart.”
 >
-> — *The Hitchhiker's Guide to the Galaxy*, Douglas Adams
+> — *Kafka on the Shore*, Haruki Murakami
 <!-- BOOK_QUOTE_END -->
 
 ---
