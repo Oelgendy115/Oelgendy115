@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “So we beat on, boats against the current, borne back ceaselessly into the past.”
+> “There is some good in this world, and it's worth fighting for.”
 >
-> — *The Great Gatsby*, F. Scott Fitzgerald
+> — *The Two Towers*, J.R.R. Tolkien
 <!-- BOOK_QUOTE_END -->
 
 ---
