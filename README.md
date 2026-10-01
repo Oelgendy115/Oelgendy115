@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “I am no bird; and no net ensnares me.”
+> “The answer to the great question of life, the universe and everything is forty-two.”
 >
-> — *Jane Eyre*, Charlotte Brontë
+> — *The Hitchhiker's Guide to the Galaxy*, Douglas Adams
 <!-- BOOK_QUOTE_END -->
 
 ---
