@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “It was a bright cold day in April, and the clocks were striking thirteen.”
+> “It is our choices that show what we truly are, far more than our abilities.”
 >
-> — *1984*, George Orwell
+> — *Harry Potter and the Chamber of Secrets*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
