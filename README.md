@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “There is some good in this world, and it's worth fighting for.”
+> “Not all those who wander are lost.”
 >
-> — *The Two Towers*, J.R.R. Tolkien
+> — *The Fellowship of the Ring*, J.R.R. Tolkien
 <!-- BOOK_QUOTE_END -->
 
 ---
