@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “There is no greater agony than bearing an untold story inside you.”
+> “Beware; for I am fearless, and therefore powerful.”
 >
-> — *I Know Why the Caged Bird Sings*, Maya Angelou
+> — *Frankenstein*, Mary Shelley
 <!-- BOOK_QUOTE_END -->
 
 ---
