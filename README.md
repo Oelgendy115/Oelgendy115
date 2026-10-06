@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Beware; for I am fearless, and therefore powerful.”
+> “I declare after all there is no enjoyment like reading!”
 >
-> — *Frankenstein*, Mary Shelley
+> — *Pride and Prejudice*, Jane Austen
 <!-- BOOK_QUOTE_END -->
 
 ---
