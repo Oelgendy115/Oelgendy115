@@ -119,7 +119,7 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The mystery of life isn't a problem to solve, but a reality to experience.”
+> “Fear is the mind-killer.”
 >
 > — *Dune*, Frank Herbert
 <!-- BOOK_QUOTE_END -->
