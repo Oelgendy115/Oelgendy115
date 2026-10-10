@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “And now that you don't have to be perfect, you can be good.”
+> “It matters not what someone is born, but what they grow to be.”
 >
-> — *East of Eden*, John Steinbeck
+> — *Harry Potter and the Goblet of Fire*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
