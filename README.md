@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “It matters not what someone is born, but what they grow to be.”
+> “We accept the love we think we deserve.”
 >
-> — *Harry Potter and the Goblet of Fire*, J.K. Rowling
+> — *The Perks of Being a Wallflower*, Stephen Chbosky
 <!-- BOOK_QUOTE_END -->
 
 ---
