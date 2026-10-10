@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Whatever our souls are made of, his and mine are the same.”
+> “And now that you don't have to be perfect, you can be good.”
 >
-> — *Wuthering Heights*, Emily Brontë
+> — *East of Eden*, John Steinbeck
 <!-- BOOK_QUOTE_END -->
 
 ---
