@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The mystery of life isn't a problem to solve, but a reality to experience.”
+> “Words are our most inexhaustible source of magic.”
 >
-> — *Dune*, Frank Herbert
+> — *Harry Potter and the Deathly Hallows*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
