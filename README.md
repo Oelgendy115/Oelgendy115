@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “So we beat on, boats against the current, borne back ceaselessly into the past.”
+> “The only way out of the labyrinth of suffering is to forgive.”
 >
-> — *The Great Gatsby*, F. Scott Fitzgerald
+> — *Looking for Alaska*, John Green
 <!-- BOOK_QUOTE_END -->
 
 ---
