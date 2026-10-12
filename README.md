@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “It was a bright cold day in April, and the clocks were striking thirteen.”
+> “So we beat on, boats against the current, borne back ceaselessly into the past.”
 >
-> — *1984*, George Orwell
+> — *The Great Gatsby*, F. Scott Fitzgerald
 <!-- BOOK_QUOTE_END -->
 
 ---
