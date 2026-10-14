@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “It matters not what someone is born, but what they grow to be.”
+> “All animals are equal, but some animals are more equal than others.”
 >
-> — *Harry Potter and the Goblet of Fire*, J.K. Rowling
+> — *Animal Farm*, George Orwell
 <!-- BOOK_QUOTE_END -->
 
 ---
