@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “There is no greater agony than bearing an untold story inside you.”
+> “It's the possibility of having a dream come true that makes life interesting.”
 >
-> — *I Know Why the Caged Bird Sings*, Maya Angelou
+> — *The Alchemist*, Paulo Coelho
 <!-- BOOK_QUOTE_END -->
 
 ---
