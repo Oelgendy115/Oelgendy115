@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “It's the possibility of having a dream come true that makes life interesting.”
+> “It is our choices that show what we truly are, far more than our abilities.”
 >
-> — *The Alchemist*, Paulo Coelho
+> — *Harry Potter and the Chamber of Secrets*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
