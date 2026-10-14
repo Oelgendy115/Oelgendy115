@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “It is our choices that show what we truly are, far more than our abilities.”
+> “It matters not what someone is born, but what they grow to be.”
 >
-> — *Harry Potter and the Chamber of Secrets*, J.K. Rowling
+> — *Harry Potter and the Goblet of Fire*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
