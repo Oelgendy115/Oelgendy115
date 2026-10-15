@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Whatever our souls are made of, his and mine are the same.”
+> “I declare after all there is no enjoyment like reading!”
 >
-> — *Wuthering Heights*, Emily Brontë
+> — *Pride and Prejudice*, Jane Austen
 <!-- BOOK_QUOTE_END -->
 
 ---
