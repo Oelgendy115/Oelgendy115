@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The only way out of the labyrinth of suffering is to forgive.”
+> “It matters not what someone is born, but what they grow to be.”
 >
-> — *Looking for Alaska*, John Green
+> — *Harry Potter and the Goblet of Fire*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
