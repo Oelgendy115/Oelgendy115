@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “You never really understand a person until you consider things from his point of view.”
+> “The only way out of the labyrinth of suffering is to forgive.”
 >
-> — *To Kill a Mockingbird*, Harper Lee
+> — *Looking for Alaska*, John Green
 <!-- BOOK_QUOTE_END -->
 
 ---
