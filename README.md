@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Whatever our souls are made of, his and mine are the same.”
+> “Not all those who wander are lost.”
 >
-> — *Wuthering Heights*, Emily Brontë
+> — *The Fellowship of the Ring*, J.R.R. Tolkien
 <!-- BOOK_QUOTE_END -->
 
 ---
