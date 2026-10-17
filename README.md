@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The past is never dead. It's not even past.”
+> “Not everything that is faced can be changed, but nothing can be changed until it is faced.”
 >
-> — *Requiem for a Nun*, William Faulkner
+> — *The Fire Next Time*, James Baldwin
 <!-- BOOK_QUOTE_END -->
 
 ---
