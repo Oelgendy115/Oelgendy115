@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “A reader lives a thousand lives before he dies.”
+> “There is no greater agony than bearing an untold story inside you.”
 >
-> — *A Dance with Dragons*, George R.R. Martin
+> — *I Know Why the Caged Bird Sings*, Maya Angelou
 <!-- BOOK_QUOTE_END -->
 
 ---
