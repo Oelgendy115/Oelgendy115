@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “You never really understand a person until you consider things from his point of view.”
+> “There is some good in this world, and it's worth fighting for.”
 >
-> — *To Kill a Mockingbird*, Harper Lee
+> — *The Two Towers*, J.R.R. Tolkien
 <!-- BOOK_QUOTE_END -->
 
 ---
