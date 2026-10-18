@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “We accept the love we think we deserve.”
+> “I am no bird; and no net ensnares me.”
 >
-> — *The Perks of Being a Wallflower*, Stephen Chbosky
+> — *Jane Eyre*, Charlotte Brontë
 <!-- BOOK_QUOTE_END -->
 
 ---
