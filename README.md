@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Not everything that is faced can be changed, but nothing can be changed until it is faced.”
+> “The only way out of the labyrinth of suffering is to forgive.”
 >
-> — *The Fire Next Time*, James Baldwin
+> — *Looking for Alaska*, John Green
 <!-- BOOK_QUOTE_END -->
 
 ---
