@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Whatever our souls are made of, his and mine are the same.”
+> “Fear is the mind-killer.”
 >
-> — *Wuthering Heights*, Emily Brontë
+> — *Dune*, Frank Herbert
 <!-- BOOK_QUOTE_END -->
 
 ---
