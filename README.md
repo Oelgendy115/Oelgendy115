@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Fear is the mind-killer.”
+> “Words are our most inexhaustible source of magic.”
 >
-> — *Dune*, Frank Herbert
+> — *Harry Potter and the Deathly Hallows*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
