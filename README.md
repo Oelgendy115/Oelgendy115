@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “So we beat on, boats against the current, borne back ceaselessly into the past.”
+> “The mystery of life isn't a problem to solve, but a reality to experience.”
 >
-> — *The Great Gatsby*, F. Scott Fitzgerald
+> — *Dune*, Frank Herbert
 <!-- BOOK_QUOTE_END -->
 
 ---
