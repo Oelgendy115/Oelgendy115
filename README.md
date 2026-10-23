@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Words are our most inexhaustible source of magic.”
+> “It was a bright cold day in April, and the clocks were striking thirteen.”
 >
-> — *Harry Potter and the Deathly Hallows*, J.K. Rowling
+> — *1984*, George Orwell
 <!-- BOOK_QUOTE_END -->
 
 ---
