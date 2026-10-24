@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The mystery of life isn't a problem to solve, but a reality to experience.”
+> “It was a bright cold day in April, and the clocks were striking thirteen.”
 >
-> — *Dune*, Frank Herbert
+> — *1984*, George Orwell
 <!-- BOOK_QUOTE_END -->
 
 ---
