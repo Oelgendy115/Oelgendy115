@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “So we beat on, boats against the current, borne back ceaselessly into the past.”
+> “Who controls the past controls the future.”
 >
-> — *The Great Gatsby*, F. Scott Fitzgerald
+> — *1984*, George Orwell
 <!-- BOOK_QUOTE_END -->
 
 ---
