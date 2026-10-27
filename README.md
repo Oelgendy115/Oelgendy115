@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The world breaks everyone, and afterward, many are strong at the broken places.”
+> “I declare after all there is no enjoyment like reading!”
 >
-> — *A Farewell to Arms*, Ernest Hemingway
+> — *Pride and Prejudice*, Jane Austen
 <!-- BOOK_QUOTE_END -->
 
 ---
