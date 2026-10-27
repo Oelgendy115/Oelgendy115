@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “A reader lives a thousand lives before he dies.”
+> “Whatever our souls are made of, his and mine are the same.”
 >
-> — *A Dance with Dragons*, George R.R. Martin
+> — *Wuthering Heights*, Emily Brontë
 <!-- BOOK_QUOTE_END -->
 
 ---
