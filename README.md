@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Not all those who wander are lost.”
+> “So we beat on, boats against the current, borne back ceaselessly into the past.”
 >
-> — *The Fellowship of the Ring*, J.R.R. Tolkien
+> — *The Great Gatsby*, F. Scott Fitzgerald
 <!-- BOOK_QUOTE_END -->
 
 ---
