@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “So we beat on, boats against the current, borne back ceaselessly into the past.”
+> “And now that you don't have to be perfect, you can be good.”
 >
-> — *The Great Gatsby*, F. Scott Fitzgerald
+> — *East of Eden*, John Steinbeck
 <!-- BOOK_QUOTE_END -->
 
 ---
