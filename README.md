@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “There is some good in this world, and it's worth fighting for.”
+> “The only way out of the labyrinth of suffering is to forgive.”
 >
-> — *The Two Towers*, J.R.R. Tolkien
+> — *Looking for Alaska*, John Green
 <!-- BOOK_QUOTE_END -->
 
 ---
