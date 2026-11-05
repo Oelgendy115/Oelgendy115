@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Whatever our souls are made of, his and mine are the same.”
+> “It was a bright cold day in April, and the clocks were striking thirteen.”
 >
-> — *Wuthering Heights*, Emily Brontë
+> — *1984*, George Orwell
 <!-- BOOK_QUOTE_END -->
 
 ---
