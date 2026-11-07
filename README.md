@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Memories warm you up from the inside. But they also tear you apart.”
+> “So it goes.”
 >
-> — *Kafka on the Shore*, Haruki Murakami
+> — *Slaughterhouse-Five*, Kurt Vonnegut
 <!-- BOOK_QUOTE_END -->
 
 ---
