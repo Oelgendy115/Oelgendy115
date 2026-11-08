@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “It's the possibility of having a dream come true that makes life interesting.”
+> “And now that you don't have to be perfect, you can be good.”
 >
-> — *The Alchemist*, Paulo Coelho
+> — *East of Eden*, John Steinbeck
 <!-- BOOK_QUOTE_END -->
 
 ---
