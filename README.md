@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Not everything that is faced can be changed, but nothing can be changed until it is faced.”
+> “Who controls the past controls the future.”
 >
-> — *The Fire Next Time*, James Baldwin
+> — *1984*, George Orwell
 <!-- BOOK_QUOTE_END -->
 
 ---
