@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “It is our choices that show what we truly are, far more than our abilities.”
+> “So we beat on, boats against the current, borne back ceaselessly into the past.”
 >
-> — *Harry Potter and the Chamber of Secrets*, J.K. Rowling
+> — *The Great Gatsby*, F. Scott Fitzgerald
 <!-- BOOK_QUOTE_END -->
 
 ---
