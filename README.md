@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “So we beat on, boats against the current, borne back ceaselessly into the past.”
+> “Words are our most inexhaustible source of magic.”
 >
-> — *The Great Gatsby*, F. Scott Fitzgerald
+> — *Harry Potter and the Deathly Hallows*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
