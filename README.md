@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “After all, tomorrow is another day.”
+> “A reader lives a thousand lives before he dies.”
 >
-> — *Gone with the Wind*, Margaret Mitchell
+> — *A Dance with Dragons*, George R.R. Martin
 <!-- BOOK_QUOTE_END -->
 
 ---
