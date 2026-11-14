@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “A reader lives a thousand lives before he dies.”
+> “It is our choices that show what we truly are, far more than our abilities.”
 >
-> — *A Dance with Dragons*, George R.R. Martin
+> — *Harry Potter and the Chamber of Secrets*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
