@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The world breaks everyone, and afterward, many are strong at the broken places.”
+> “Words are our most inexhaustible source of magic.”
 >
-> — *A Farewell to Arms*, Ernest Hemingway
+> — *Harry Potter and the Deathly Hallows*, J.K. Rowling
 <!-- BOOK_QUOTE_END -->
 
 ---
