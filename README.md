@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Words are our most inexhaustible source of magic.”
+> “Beware; for I am fearless, and therefore powerful.”
 >
-> — *Harry Potter and the Deathly Hallows*, J.K. Rowling
+> — *Frankenstein*, Mary Shelley
 <!-- BOOK_QUOTE_END -->
 
 ---
