@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “It is our choices that show what we truly are, far more than our abilities.”
+> “The world breaks everyone, and afterward, many are strong at the broken places.”
 >
-> — *Harry Potter and the Chamber of Secrets*, J.K. Rowling
+> — *A Farewell to Arms*, Ernest Hemingway
 <!-- BOOK_QUOTE_END -->
 
 ---
