@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “It is our choices that show what we truly are, far more than our abilities.”
+> “Not all those who wander are lost.”
 >
-> — *Harry Potter and the Chamber of Secrets*, J.K. Rowling
+> — *The Fellowship of the Ring*, J.R.R. Tolkien
 <!-- BOOK_QUOTE_END -->
 
 ---
