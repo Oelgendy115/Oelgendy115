@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Not all those who wander are lost.”
+> “I declare after all there is no enjoyment like reading!”
 >
-> — *The Fellowship of the Ring*, J.R.R. Tolkien
+> — *Pride and Prejudice*, Jane Austen
 <!-- BOOK_QUOTE_END -->
 
 ---
