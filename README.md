@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “I declare after all there is no enjoyment like reading!”
+> “After all, tomorrow is another day.”
 >
-> — *Pride and Prejudice*, Jane Austen
+> — *Gone with the Wind*, Margaret Mitchell
 <!-- BOOK_QUOTE_END -->
 
 ---
