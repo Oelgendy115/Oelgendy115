@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Memories warm you up from the inside. But they also tear you apart.”
+> “So we beat on, boats against the current, borne back ceaselessly into the past.”
 >
-> — *Kafka on the Shore*, Haruki Murakami
+> — *The Great Gatsby*, F. Scott Fitzgerald
 <!-- BOOK_QUOTE_END -->
 
 ---
