@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “After all, tomorrow is another day.”
+> “The answer to the great question of life, the universe and everything is forty-two.”
 >
-> — *Gone with the Wind*, Margaret Mitchell
+> — *The Hitchhiker's Guide to the Galaxy*, Douglas Adams
 <!-- BOOK_QUOTE_END -->
 
 ---
