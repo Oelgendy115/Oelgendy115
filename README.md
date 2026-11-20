@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The answer to the great question of life, the universe and everything is forty-two.”
+> “A reader lives a thousand lives before he dies.”
 >
-> — *The Hitchhiker's Guide to the Galaxy*, Douglas Adams
+> — *A Dance with Dragons*, George R.R. Martin
 <!-- BOOK_QUOTE_END -->
 
 ---
