@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “The past is never dead. It's not even past.”
+> “Books are a uniquely portable magic.”
 >
-> — *Requiem for a Nun*, William Faulkner
+> — *On Writing*, Stephen King
 <!-- BOOK_QUOTE_END -->
 
 ---
