@@ -119,9 +119,9 @@ I'm a total bookworm. I love reading and getting completely lost in a good story
 # 📚 Random Book Quote
 
 <!-- BOOK_QUOTE_START -->
-> “Books are a uniquely portable magic.”
+> “The world breaks everyone, and afterward, many are strong at the broken places.”
 >
-> — *On Writing*, Stephen King
+> — *A Farewell to Arms*, Ernest Hemingway
 <!-- BOOK_QUOTE_END -->
 
 ---
